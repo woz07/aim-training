@@ -17,5 +17,5 @@ You can use ESC to close the game
 ### Move Mouse
 Move the mouse around to move the player
 
-## Libaries used | Special thanks
+## Libaries used
 1. https://github.com/RobLoach/node-raylib
